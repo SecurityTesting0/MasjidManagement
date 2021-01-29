@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7a2bd29-2389-4a17-a1d5-8839926c8649" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hYaMvJGCfdxvqaoBWI8VTgOAxl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\masjidmanagment" />
+      <recent name="C:\wamp\www\masjidmanagment" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="footer.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/masjidmanagment/inc/footer.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.footer.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7a2bd29-2389-4a17-a1d5-8839926c8649" name="Default Changelist" comment="" />
+      <created>1600190449659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600190449659</updated>
+      <workItem from="1600190458722" duration="3486000" />
+      <workItem from="1600230836130" duration="3471000" />
+      <workItem from="1600317088394" duration="5907000" />
+      <workItem from="1600325478777" duration="1849000" />
+      <workItem from="1600330868413" duration="5130000" />
+      <workItem from="1600356944830" duration="4249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="623" height="498" key="SwitcherDM" timestamp="1600193898040">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1366.720@0.0.1366.720" timestamp="1600193898040" />
+    <state x="254" y="149" key="run.anything.popup" timestamp="1600191735543">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="254" y="149" key="run.anything.popup/0.0.1366.720@0.0.1366.720" timestamp="1600191735543" />
+    <state x="303" y="211" key="search.everywhere.popup" timestamp="1600230903579">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1600230903579" />
+  </component>
+</project>
